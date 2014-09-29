@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<addressbook xmlns="http://meje@mmmi.sdu.dk/TEC/addressbook">
+    <entry id="Entry1">
+        <forename>Philip J.</forename>
+        <lastname>Fry</lastname>
+        <mail>fry@example.com</mail>
+        <mail>philip@example.com</mail>
+        <phone>0123456</phone>
+        <sex>male</sex>
+        <birthday>1974-01-01</birthday>
+    </entry>
+  
+    <entry id="Entry2">
+        <forename>Turanga Leela</forename>
+        <lastname>-</lastname>
+        <mail>leela@example.com</mail>
+        <phone>0123456</phone>
+        <phone>7890</phone>
+        <sex>female</sex>
+        <birthday>2974-01-01</birthday>
+    </entry>
+  
+    <entry id="Entry3">
+        <forename>Bender Bieger</forename>
+        <lastname>Rodriguez</lastname>
+        <sex>male</sex>
+        <birthday>2998-01-01</birthday>
+    </entry>
+  
+    <entry id="Entry4">
+        <forename>Hubert J.</forename>
+        <lastname>Farnsworth</lastname>
+        <mail>prof_farnsworth@example.com</mail>
+        <phone>42</phone>
+        <sex>male</sex>
+        <birthday>2839-01-01</birthday>
+    </entry>
+    
+</addressbook>
